@@ -1,4 +1,4 @@
-Gag: ~500 amino acids
+Gag: ~500 amino acids 
 
 Pol: ~1,000 amino acids
 
@@ -15,3 +15,7 @@ Vpu: ~81 amino acids
 Env: ~856 amino acids
 
 Nef: ~206 amino acids
+
+epitopo = 10 a 12
+MHC = 10 a 15
+ 
