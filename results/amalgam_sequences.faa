@@ -1,79 +1,93 @@
->gag Amalgam conserved sequence. Number of sequences: 373
---A-AS-L-G--LD-WE-I-L-PG--K-Y--KH--WASREL--FA----LLE---G----
---Q-------TG-----SL-N----L--VH------DT--A-------------------
------------------------------------------------------N-P---N
--QGQ---Q---PRTLNAWVK--EEK-F-PE-IPMF-AL-EG--P-D-N-MLN--GGHQ-A
--Q-LK--IN-EA--WDR-HP---GP--PGQ-R-P-GSDIAG-TS---EQ--W-T------
-----PVG-IY--WI--GLNK-V-MYSP--ILDI-QGPKEPFRDYVDRF-K-LRAEQ--Q-
-VK-WMT-TLL-QN-NPDCK-IL--LG--A--EEMM-ACQGVGGP-HKAR-LAEAM-----
---------------------Q-----------------KCFNCG--GH-A-NC-APR--G
-CW-CG-EGHQMK-C--------QANFLG--WP------RPGN--Q---------------
--------------------P----APP---------------------------------
------------------------------------------------------L-SLFG-
-D----
->pol Amalgam conserved sequence. Number of sequences: 340
+>gag Amalgam conserved sequence. Number of sequences: 429
+--ARAS-L-G--LD-WE-I-LRPGG-K-Y--KH--WASREL-RFA--P-LLE---GC---
+--QL------TG-E---SL-N----L--VH------DT-EA-------------------
+------------------------------------------------------------
+-------------------------------SQNYPIVQN-QGQ--HQ--SPRTLNAWVK
+--EEK-F-PEVIPMF-ALSEGATP-DLN-MLN-VGGHQAAMQ-LK--INEEAA-WDR-HP
+--AGP--PGQ-R-PRGSDIAGTTS--QEQ--WMT--N-----PP-PVG-IY-RWI-LGLN
+KIVRMYSP-SILDI-QGPKEPFRDYVDRF-K-LRAEQA-Q-VK-WMT-TLL-QNANPDCK
+-IL--LG--A--EEMMTACQGVGGP-HKAR-LAEAM----------------------MQ
+-------------------KCFNCG--GH-A-NC-APRK-GCWKCG-EGHQMKDC-----
+--E--QANFLG--WP-----GRPGNF-Q---------------R----------------
+-------------E-------P----APP----E--------------------------
+------------------------------------------------------------
+---------------------------------SL-SLFG-D------------------
+-----
+>pol Amalgam conserved sequence. Number of sequences: 407
 ------------------------------------------------------------
 ------------------------------------------------------------
-------------PQI-LW-RP-----------EALLDTGADDTV-E---L-G-W-P-MIG
-GIGGFIKV-QY------I-G----GTVL-GPTP-NIIGRN-LT--GCTLNFPIS---T-P
-V-LK-GMDGP--KQWPL--EKI-AL--IC---E-EGKI--IGP-NPYNTP-FAI-KK-S-
--WRKLVDFRELNKRTQDFWE-QLGIPHP-GLK---SV-VLDVGDAYFS-PL---FRKYTA
-FTIPS-NNE-PG-RYQYNVLPQGWKGSP-IFQ-SM--IL-PF---NP---IYQY-DDLYV
-GSDL----HR-K---LR-HL--WG--TPD-KHQKEPPF-WMGYELHPD-WTVQ---LP-K
---WTVNDIQKLVGKLNWASQIY-GI----LC-L-RG-K-LT-----T-EAE-EL-EN-EI
-----VHG-YY---K-L----QKQG--QWT-QI-QE--KNLKTGKYA-----HTND--QL-
----QK---E-I--WGK--PKF-LPI---TW--WW---WQATWIP-WEFV-TPPLVKLWY-
-LE--PI---ET-YVDGA----T--G-AGY-T--G---------TTNQ--EL-A---AL--
-S----NIVTDSQY-LGII-A-PD-S-S--V--IIE-L--K---YL-WVPAHKGIGGNE--
-DKLVS-G-R--LFL-GI--AQ--H--YH-NW--M---F--PP--AKEI-A-C--CQ-KGE
-A-HGQVDCSPG-WQ-DCTHLEGK-I-VAVHVASGY-EAEVIP-ETGQ--AY--L-LA-RW
-PV---HTDNG-NF-S---KAACWWA----EFGIPYNPQSQGVVES-N--LK-II-Q-R-Q
-AEHL-TAVQMAVF-HNFKR-GGIG-Y-AGERI-D------Q--ELQ--I---Q-FRVY-R
-D-R-P-WKGPA-LLWKGEGAVVIQD---IKV-PRRK-KI---YGKQMAG--C-A--Q-E-
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------MIGGIGGFIKV--Y-
+-----I-G----GTVL-GPTP-NIIGRN-LT--GCTLNFPIS-I-TVPV-LKPGMDGP--
+KQWPL--EKI-AL--IC---E-EGKI--IGPENPYNTP-FAI-KK--T-WRKLVDFRELN
+KRTQDFWE-QLGIPHP-GLK---SVTV---LDVGDAYFS-PL---FRKY-----------
+---------------TAFTIPS-NNET-----PG-RYQ----YNVLPQGWKGSPAIFQ-S
+M--IL-PF---NP---I-QY-DDLYVGSDL----HR-----LR-HL--WG--TPD-KHQK
+EPPF-WMGYELHPD-WTVQ---LP-K--WTVNDIQKLVGKLNWASQIY-GI----LC-L-
+RG-K-LT-------EAELEL-EN-E-----L---VHG-YY-P-K-L-----QKQG--QWT
+YQ--Q---KNLKTGKY-------HTN--------D--QL----QK---E-I-IWGK--PK
+F-LPI----W------WW------WQATW-------------------IP-WEFV-TPPL
+VKLWY-LE------PI-G----------------------------ET-YVDGA--R-T-
+----------K-GKAGY-T--G---------TTNQ--EL-A---A--LQ-S---VN----
+--IVTDSQY-LGII--QP-------S-S---------V--I------IE-L--K---YL-
+W-----------VPAHKGIGGNE--------------DKLVS---R--LFL-GI--AQ--
+HE-YH-N------W------F--PP--AKEI-A-C--C--KGEA-HGQVDCSP--WQ-DC
+THLEGK-I-VAVHVASG--EAEVIP-ETGQ--AY--LKLA-RWPV---HTDNG-NF-S--
+-KAACWW----QEFGI--PYNPQSQGV--------------VE--N-ELK-II-Q-R-QA
+EHL-TAV---------QMAVF-HNFKRKGGIG-Y-AGERI-D------QT-EL-------
+----Q-QI-K--Q-FRVY-RD-R-P-WKGPA-LLWKGEGAVVIQD---------------
+----IKVVPRRK-KII--YGKQMAG----A--Q-E-----------
+>vif Amalgam conserved sequence. Number of sequences: 452
+MENRWQV-IVWQVDRM-I--W-SLVK-H---S-----W-Y-HH-----P--SSEVHIP--
+----------TYWGL--GE--W-LG-G-S-EW----Y-TQ--P--AD-LIH--YF-CF--
+SAIR-A-LG------C-Y--GH----VG-LQYLAL-A------------PPLPS--KL-E
+DRWN---------------------G----
+>vpr Amalgam conserved sequence. Number of sequences: 443
+ME--P---GPQR-P-N-W-LELLE-LK-EAVRHFPR-WL--LGQ--Y-TYG-DTW-GV--
+--R-LQQLLF-H--RIGC-HSRIGI------------R--R--R-G--R-----------
+------
+>tat Amalgam conserved sequence. Number of sequences: 402
+M--VD---P---PW--PG-----S-P-T-C--C-CK-C--HC--CF--KGL---GI--GR
+KKR----R------------Q--------Q------------------------------
 ----------
->vif Amalgam conserved sequence. Number of sequences: 424
-MENRWQV--VWQVDR-----W-S-VK-H---S-----W-Y-HH-----P--SS-V-IP--
----------TYWGL--GE----LG-G-S-EW----Y-TQ--P--AD--IH---F-CF---
-AIR----G------C----GH---VG-LQ-LAL-----------PPLPS---L-ED-W--
---------------G-
->vpr Amalgam conserved sequence. Number of sequences: 378
-ME--P---GPQR-P---W-L--LE-LK-EAV-HFP--WL--LG---Y--YGDTW-GV---
----LQ---F-H--R-GC-HSRIG-----RR--R-G--R-
->tat Amalgam conserved sequence. Number of sequences: 330
-M---D-------PW--PGS-P-T-C--C-CK-C--HC--CF--KGLGI--GRKK---R--
---------------Q---------------------------------
->rev Amalgam conserved sequence. Number of sequences: 369
-MAGR----D----L----------Y-------P-P-----G--RQ---N-RRRWR-RQ--
------------------E-V---LP--E-L------------------------------
----------------
->vpu Amalgam conserved sequence. Number of sequences: 355
-M--------------------------W--------------------I---------R-
-EDSGNES-GD---L-----------------------
->env Amalgam conserved sequence. Number of sequences: 357
+>rev Amalgam conserved sequence. Number of sequences: 413
+MAGRS------D-----L------I----------K-LYQ---S-------P-P------
+-G---RQ-R-NRRRRWR-RQ----------L----G---EP----LPP-ERL--------
+-------------------------------------
+>vpu Amalgam conserved sequence. Number of sequences: 418
+M--------------------------W-------------------I-----RI--R-E
+DSGNES-G-------------------------------------------------
+>env Amalgam conserved sequence. Number of sequences: 425
+--------M---------------------------------------------------
+---------------WVTVYYGV------PVW--A---LFCAS-A-----E-HN-WAT-A
+CVPTDP-P-E-----NVTE-F--W-N-M--QM--D-ISLW--SLKPCV--TPLCV---C-
 ------------------------------------------------------------
-WVT-YYGV------P-W--A---LFCAS-A-----E-HN-WAT-ACVPTDP-P-E-----
-NVTE-F--W-N-M--QM--D----W---L-PCV--T-LCV-L-C----------------
 ------------------------------------------------------------
--------------------------------C-------------------------F--
--D----------------------------------------------------------
--L--C-------Q-CPK----PIPIHYC-PAG-----C----F-G-G-C--VS-V-CTH-
-GI-P--STQLLL-NGS---------------------I---------I-C-RP-------
----------G-----------------G--------R-A-C------W------------
----------------------------------F----------GGD-E-------C-G-
-EF----------C-----------F-----------------------------------
---------------------------------------------------------C-I-
-Q--------W-------Y--P--G---C-S-ITG----------D---------------
---------------------------RP-GG-----WR-ELY-YK-V---P-G-AP----
-R-VV--------RA------------------G-L--A-GSTMGAA----LT-Q---LL-
-GIVQQQ-NLL-AI-AQQ--L-LTVWGIKQL--R-LA-E--L-DQ--LG-WGC-G--IC-T
--V--WN--W----------------IW-----TW--W--E-------I-------Q-QQ-
--NE--LL----W--LW-WF-I--WLWYI--FI---G---GL-I-----------R-GYSP
--S-Q-----------------------G------S-----G-----W-D-R-L----Y--
-L--------------------------------------------YW--E---S---L--
---A------TD----------R------P-RIRQ----G-E-----------
->nef Amalgam conserved sequence. Number of sequences: 373
-----------MG-----------W------------------------------------
----------------------------G-G--S--L---G--------------------
---------------VGFPV-PQVP-RPM--K-A-DL--FL---GGL-G---S--R--ILD
-LW---TQG-FPDW--YTPGP----P-----------------------------------
--------------------------------------------
+-------------------------C-F--T--------------------F---D----
+------------------------------------------------------------
+-------------------Y-L--CN------QACPK----PIPIHYC-PAG-A--KC--
+--F-G-G-C-NVS-VQCTH-GI-P--STQLLL-NGSL-----------N-------IIV-
+------I-C-RP--------------GPG----------------G--R-A-C------W
+------------------------------------------------------------
+F----------GGD-E-----F-C-G-EF-----FYC----T--------LF--------
+------------------------------------------------------------
+----------------------------------C-I-Q--------W---G---YA-P-
+-G---C-S-ITG--L-------D-------------------------------------
+--RP-GG-----WR-ELYKYKVV---P-G-AP--A-R-VV---------R-KRA-----G
+----GFL--A-GSTMGAA----LTVQ-R-LL-GIVQQQ-NLL-AI-AQQ--L-L-VWGIK
+QL--R-LA-E--L-DQ--LG-WGCSGK-IC-T-V-PWN--WS---N-------------I
+W----N-TW--W-----NY---IY------Q-QQ--NE--LL-LD-W--LW-WF-I--WL
+WYI-IFI-IVGGL-GLRI-----------R-GYSP-S-Q---------------------
+--GGE-----S--L--G-----W-DLR-L----Y--L-D------R--------------
+------------------YW--EL--SA--L-----A---A--TD----------R----
+--P-RIRQ----G-E---------L-
+>nef Amalgam conserved sequence. Number of sequences: 395
+----------MG---SK------W---R--------------------------------
+------------------------------------------------------------
+-------------GVG--S-----------------DL---GA-T---------------
+---Q-----------VGFPV-PQVP-RPMT-K-A-DL--FL-EKGGL-GL--S--R--IL
+DLW-Y-TQG-FPDW-NYTPGPG-R-PL--GWC-KLVP------E------E---LLHP--
+-HG--D---E---------L-W-FD--LA--H-A----P---------------------
+---
+
